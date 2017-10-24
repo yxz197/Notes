@@ -8,7 +8,7 @@ Count the number of prime numbers less than a non-negative number, $$n$$.
 
 ```cpp
  int countPrimes(int n) {
-        if (n<=2) return 0;
+    if (n<=2) return 0;
     vector<bool> checked(n, false);
     int sum = 1;
     int upper = sqrt(n);
@@ -23,7 +23,7 @@ Count the number of prime numbers less than a non-negative number, $$n$$.
         }
     }
     return sum;
-      }
+  }
 ```
 
 
