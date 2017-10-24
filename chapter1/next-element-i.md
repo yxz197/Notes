@@ -6,3 +6,28 @@ The Next Greater Number of a number **x **in`nums1`is the first greater number t
 
 
 
+```cpp
+  vector<int> nextGreaterElement(vector<int>& findNums, vector<int>& nums) {
+        vector<int> result;
+        stack<int> s;
+        unordered_map<int, int> m;
+        for(int i = 0; i < nums.size(); ++i){
+                while(!s.empty() && s.top() < nums[i]){
+                    m[s.top()] = nums[i];
+                    s.pop();
+                }
+            s.push(nums[i]);
+        }
+        for(auto i : findNums){
+            if(m.find(i) != m.end()){
+                result.push_back(m[i]);
+            }else{
+                result.push_back(-1);
+            }
+        }
+        return result;
+    }
+```
+
+
+
