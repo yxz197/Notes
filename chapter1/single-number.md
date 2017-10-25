@@ -11,7 +11,7 @@ Given an array of integers, every element appears twice except for one. Find tha
             res ^= num;
         }
         return res;
-        
+
 //         map<int, int> imap;
 //         for(auto i : nums){
 //             imap[i]++;
@@ -22,8 +22,9 @@ Given an array of integers, every element appears twice except for one. Find tha
 //             }
 //         }
     }
-
 ```
 
+## 260. Single Number III
 
+Given an array of numbers`nums`, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once.
 
