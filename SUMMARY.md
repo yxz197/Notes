@@ -9,5 +9,5 @@
   * [Assign Cookies](chapter1/assign-cookies.md)
   * [Majority Element](chapter1/majority-element.md)
   * [Reverse Linked List](chapter1/reverse-linked-list.md)
-  * Power of Three
+  * [Power of Three](chapter1/power-of-three.md)
 
