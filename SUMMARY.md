@@ -7,4 +7,5 @@
   * [Next Element I](chapter1/next-element-i.md)
   * [Minimum Absolute Difference in BST](chapter1/minimum-absolute-difference-in-bst.md)
   * [Assign Cookies](chapter1/assign-cookies.md)
+  * [Majority Element](chapter1/majority-element.md)
 
