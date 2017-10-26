@@ -6,4 +6,5 @@
   * [Single Number](chapter1/single-number.md)
   * [Next Element I](chapter1/next-element-i.md)
   * [Minimum Absolute Difference in BST](chapter1/minimum-absolute-difference-in-bst.md)
+  * [Assign Cookies](chapter1/assign-cookies.md)
 
