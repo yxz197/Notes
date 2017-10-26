@@ -11,4 +11,5 @@
   * [Reverse Linked List](chapter1/reverse-linked-list.md)
   * [Power of Three](chapter1/power-of-three.md)
   * [Set Mismatch](chapter1/set-mismatch.md)
+  * [House Robber](chapter1/house-robber.md)
 
