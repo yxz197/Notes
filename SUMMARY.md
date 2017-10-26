@@ -8,4 +8,5 @@
   * [Minimum Absolute Difference in BST](chapter1/minimum-absolute-difference-in-bst.md)
   * [Assign Cookies](chapter1/assign-cookies.md)
   * [Majority Element](chapter1/majority-element.md)
+  * [Reverse Linked List](chapter1/reverse-linked-list.md)
 
