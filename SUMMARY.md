@@ -14,4 +14,5 @@
   * [House Robber](chapter1/house-robber.md)
   * Subset Sum
   * [Combination Sum](chapter1/combination-sum.md)
+  * Stock
 
