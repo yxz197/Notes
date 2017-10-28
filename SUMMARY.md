@@ -19,6 +19,5 @@
 ## 绿皮
 
 * [Master Theorem](lv-pi/master-theorem.md)
-
-
+* [Merge Sort](lv-pi/merge-sort.md)
 
