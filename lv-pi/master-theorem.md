@@ -1,6 +1,8 @@
-Suppose that 
+Suppose that
 
-                                                                        $$T(n) = aT(n/b) = f(n)$$
+```
+ $$T(n) = aT(n/b) = f(n)$$
+```
 
 Then there are three cases:
 
