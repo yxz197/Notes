@@ -1,4 +1,4 @@
 {
-     "plugins": ["katex", "expandable-chapters"],
+     "plugins": ["katex", "expandable-chapters"]
     
 }
