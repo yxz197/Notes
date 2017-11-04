@@ -27,27 +27,17 @@
 ## Machine Learning Notes
 
 * [Linear Methods](chapter3/linear-methods.md)
-
   * [Linear Regression](chapter3/linear-methods/linear-regression.md)
-
-* Classification
-
-  * Logistic Regression
-
-  * Linear Discriminate Analysis
-
-  * Comparison of Classification Methods
-
-* Resampling Methods
-
-  * Cross Validation
-
-  * The Bootstrap
+* [Classification](chapter3/classification.md)
+  * [Logistic Regression](chapter3/classification/logistic-regression.md)
+  * [Linear Discriminate Analysis](chapter3/classification/linear-discriminate-analysis.md)
+  * [Comparison of Classification Methods](chapter3/classification/comparison-of-classification-methods.md)
+* [Resampling Methods](chapter3/resampling-methods.md)
+  * [Cross Validation](chapter3/resampling-methods/cross-validation.md)
+  * [The Bootstrap](chapter3/resampling-methods/the-bootstrap.md)
 
 ## Stochastic Calculus
 
 * [Brownian Motion](stochastic-calculus/brownian-motion.md)
 * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
-
-
 
