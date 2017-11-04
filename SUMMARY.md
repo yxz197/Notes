@@ -23,10 +23,8 @@
   * [Merge Sort](chapter2/sorting/merge-sort.md)
   * [Heap Sort](chapter2/sorting/heap-sort.md)
   * [Quick Sort](chapter2/sorting/quick-sort.md)
-
-* Prob. Questions
-
-  * Median Prob.
+* [Prob. Questions](chapter2/prob-questions.md)
+  * [Median Prob.](chapter2/prob-questions/median-prob.md)
 
 ## Machine Learning Notes
 
@@ -44,6 +42,4 @@
 
 * [Brownian Motion](stochastic-calculus/brownian-motion.md)
 * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
-
-
 
