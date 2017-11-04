@@ -15,4 +15,4 @@
   * [Combination Sum](chapter1/combination-sum.md)
 * [Quant](chapter2.md)
   * [1. Coupon Collection](chapter2/coupon-collection.md)
-
+* [Machine Learning](chapter3.md)
