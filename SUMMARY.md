@@ -24,6 +24,10 @@
   * [Heap Sort](chapter2/sorting/heap-sort.md)
   * [Quick Sort](chapter2/sorting/quick-sort.md)
 
+* Prob. Questions
+
+  * Median Prob.
+
 ## Machine Learning Notes
 
 * [Linear Methods](chapter3/linear-methods.md)
@@ -40,4 +44,6 @@
 
 * [Brownian Motion](stochastic-calculus/brownian-motion.md)
 * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
+
+
 
