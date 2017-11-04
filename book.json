@@ -1,8 +1,3 @@
 {
-    "plugins": ["disqus"],
-    "pluginsConfig": {
-      "disqus": {
-          "shortName": "picklecai"
-      }
-    }
+     "plugins": ["mathjax"]
 }
