@@ -29,3 +29,10 @@
 * [Linear Methods](chapter3/linear-methods.md)
   * [Linear Regression](chapter3/linear-methods/linear-regression.md)
 
+## Stochastic Calculus
+
+* Brownian Motion
+* Ito's Lemma
+
+
+
