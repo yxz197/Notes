@@ -2,9 +2,9 @@
 
 Google
 
-$$$$
 
-```r
+
+```py
 count = 0
 N = 1e7
 for(i in 1:N){
