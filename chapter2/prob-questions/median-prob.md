@@ -1,4 +1,4 @@
-## Q. 3 random variables i.i.d from a uniform distribution 0 to 2, what is the probability that the median is greater than 1.5?
+## 3 random variables i.i.d from a uniform distribution 0 to 2, what is the probability that the median is greater than 1.5?
 
 
 $$
