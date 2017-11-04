@@ -14,5 +14,5 @@
   * [House Robber](chapter1/house-robber.md)
   * [Combination Sum](chapter1/combination-sum.md)
 * [Quant](chapter2.md)
-  * [Coupon Collection](chapter2/coupon-collection.md)
+  * [1. Coupon Collection](chapter2/coupon-collection.md)
 
