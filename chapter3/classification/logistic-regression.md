@@ -1,32 +1,36 @@
 ## Logistic Regression
 
-Consider the problem of classifying a variable Y into two categories given observations $X$, e.g., 0 or 1. Rather than modeling the response $Y$ directly, logistic regression models the probability that $Y$ belongs to a particular category.
+Consider the problem of classifying a variable $$Y$$ into two categories given observations $$X$$, e.g., 0 or 1. Rather than modeling the response $$Y$$ directly, logistic regression models the probability that $$Y$$ belongs to a particular category.
 
-\subsection{The logistic model} % \(fold\)
+Denote $$P(X) = P(Y=1|X)$$. Instead of setting
 
-\label{sub:the\_logistic\_model}
 
-Denote $P\(X\) = P\(Y=1\|X\)$. Instead of setting 
+$$
+P(X) = \beta_0 + \beta_1 X, \quad (\ast)
+$$
 
-\begin{equation}\label{linear-model}
 
-	P\(X\) = \beta\_0 + \beta\_1 X,
 
-\end{equation}
 
-we set 
+we set
 
-\begin{equation}\label{logi-model}
 
-	P\(X\) = \frac{e^{\beta\_0+\beta\_1 X}}{1+e^{\beta\_0 + \beta\_1 X}}.
+$$
+P(X) = \frac{e^{\beta_0+\beta_1 X}}{1+e^{\beta_0 + \beta_1 X}}.
+$$
 
-\end{equation}
 
-The disadvantage of \eqref{linear-model} is clear, it may give value of $P\(X\)$ below zero or above one, which is impossible for a probability value. Form \eqref{logi-model}, we obtain that 
+
+
+
+
+The disadvantage of $$(\ast)$$ is clear, it may give value of $$P(X)$$ below zero or above one, which is impossible for a probability value. Form \eqref{logi-model}, we obtain that
 
 \begin{equation}\label{tran-logi-model}
 
-	\log\left\(\frac{P\(X\)}{1-P\(X\)}\right\) = \beta\_0 + \beta\_1 X.
+```
+\log\left\(\frac{P\(X\)}{1-P\(X\)}\right\) = \beta\_0 + \beta\_1 X.
+```
 
 \end{equation}
 
@@ -42,7 +46,9 @@ The coefficients of $\beta\_0$ and $\beta\_1$ is unknown and must be estimated b
 
 \begin{eqnarray}
 
-	\emph{l}\(\beta\_0, \beta\_1\)=\prod\_{i:y\_i=1}p\(x\_i\)\prod\_{i:y\_i=0}\(1-p\(x\_i\)\).\non
+```
+\emph{l}\(\beta\_0, \beta\_1\)=\prod\_{i:y\_i=1}p\(x\_i\)\prod\_{i:y\_i=0}\(1-p\(x\_i\)\).\non
+```
 
 \end{eqnarray}
 
@@ -56,15 +62,19 @@ Very naturally,
 
 \begin{equation}\label{multi-logi-reg}
 
-	\log\left\(\frac{P\(X\)}{1-P\(X\)}\right\) = \beta\_0 + \beta\_1 X\_1 +...+\beta\_p X\_p,
+```
+\log\left\(\frac{P\(X\)}{1-P\(X\)}\right\) = \beta\_0 + \beta\_1 X\_1 +...+\beta\_p X\_p,
+```
 
 \end{equation}
 
-where $X=\(X\_1,...,X\_p\)$ are $p$ predictors. Equation \eqref{multi-logi-reg} can be rewritten as 
+where $X=\(X\_1,...,X\_p\)$ are $p$ predictors. Equation \eqref{multi-logi-reg} can be rewritten as
 
 \begin{equation}
 
-	p\(X\) = \frac{e^{\beta\_0 + \beta\_1 X\_1 +...+\beta\_p X\_p}}{1+e^{\beta\_0 + \beta\_1 X\_1 +...+\beta\_p X\_p}}.
+```
+p\(X\) = \frac{e^{\beta\_0 + \beta\_1 X\_1 +...+\beta\_p X\_p}}{1+e^{\beta\_0 + \beta\_1 X\_1 +...+\beta\_p X\_p}}.
+```
 
 \end{equation}
 
@@ -77,6 +87,4 @@ To estimate parameters, we use maximum likelihood as well.
 \label{sub:for\_}
 
 The previous models are for two-class classification \(0 or 1\), and it has multi-class extensions, but in practice they tend not to be used all that often. Then what should we use? \emph{Discriminant Analysis}.
-
-
 
