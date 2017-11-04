@@ -21,5 +21,3 @@
     * [Quick Sort](chapter2/sorting/quick-sort.md)
 * [Machine Learning](chapter3.md)
 
-
-
