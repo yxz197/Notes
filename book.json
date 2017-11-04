@@ -1,6 +1,5 @@
 {
-     "plugins": ["katex"],
-     "plugins": ["expandable-chapters"],
+     "plugins": ["katex", "expandable-chapters"],
      "pluginsConfig": {
         "theme-default": {
              "showLevel": true
