@@ -18,5 +18,3 @@
 * [Machine Learning](chapter3.md)
   * [Linear Method](chapter3/linear-methods.md)
 
-## Sorting
-
