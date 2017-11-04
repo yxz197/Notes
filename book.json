@@ -1,3 +1,8 @@
 {
-     "plugins": ["katex"]
+     "plugins": ["katex"],
+     "pluginsConfig": {
+        "theme-default": {
+             "showLevel": true
+        }
+    }
 }
