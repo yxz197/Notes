@@ -16,5 +16,5 @@
 * [Quant](chapter2.md)
   * [1. Coupon Collection](chapter2/coupon-collection.md)
 * [Machine Learning](chapter3.md)
-  * Linear Methods
+  * [Linear Methods](chapter3/linear-methods.md)
 
