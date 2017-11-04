@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [LeetCoding](chapter1.md)
-  * [Count Prime](chapter1/count-prime.md)
+  * [204.Count Prime](chapter1/count-prime.md)
   * [Single Number](chapter1/single-number.md)
   * [Next Element I](chapter1/next-element-i.md)
   * [Minimum Absolute Difference in BST](chapter1/minimum-absolute-difference-in-bst.md)
