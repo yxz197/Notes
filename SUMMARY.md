@@ -29,8 +29,18 @@
 * [Linear Methods](chapter3/linear-methods.md)
   * [Linear Regression](chapter3/linear-methods/linear-regression.md)
 
+* Classification
+
+  * Logistic Regression
+
+  * Linear Discriminate Analysis
+
+  * Comparison of Classification Methods
+
 ## Stochastic Calculus
 
 * [Brownian Motion](stochastic-calculus/brownian-motion.md)
 * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
+
+
 
