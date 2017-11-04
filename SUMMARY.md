@@ -13,6 +13,5 @@
   * [136.Single Number](chapter1/single-number.md)
   * [House Robber](chapter1/house-robber.md)
   * [Combination Sum](chapter1/combination-sum.md)
-
-
+  * Quant
 
