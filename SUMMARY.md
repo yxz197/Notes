@@ -21,7 +21,5 @@
     * [Quick Sort](chapter2/sorting/quick-sort.md)
 * [Machine Learning](chapter3.md)
   * [Linear Methods](chapter3/linear-methods.md)
-    * Linear Regression
-
-
+    * [Linear Regression](chapter3/linear-methods/linear-regression.md)
 
