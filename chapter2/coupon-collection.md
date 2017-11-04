@@ -1,2 +1,6 @@
-What is the expectation to collect $$N$$ coupons?
+## What is the expectation to collect $$N$$ coupons?
+
+
+
+
 
