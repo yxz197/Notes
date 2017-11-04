@@ -27,6 +27,7 @@
 ## Machine Learning Notes
 
 * [Linear Methods](chapter3/linear-methods.md)
+
   * [Linear Regression](chapter3/linear-methods/linear-regression.md)
 
 * Classification
@@ -36,6 +37,12 @@
   * Linear Discriminate Analysis
 
   * Comparison of Classification Methods
+
+* Resampling Methods
+
+  * Cross Validation
+
+  * The Bootstrap
 
 ## Stochastic Calculus
 
