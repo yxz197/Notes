@@ -16,6 +16,10 @@
 * [Quant](chapter2.md)
   * [Coupon Collection](chapter2/coupon-collection.md)
   * [Sorting Algorithms ](chapter2/sorting.md)
+    * Insertion Sort
+    * Merge Sort
+    * Heap Sort
+    * Quick Sort
 * [Machine Learning](chapter3.md)
   * [Linear Method](chapter3/linear-methods.md)
 
