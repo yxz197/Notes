@@ -16,6 +16,7 @@
 * [Quant](chapter2.md)
   * [1. Coupon Collection](chapter2/coupon-collection.md)
 * [Machine Learning](chapter3.md)
-  * [Linear Methods](chapter3/linear-methods.md)
-    *[Univariate Linear Regression](chapter3/univariateLR.md)
+  * [Linear Method](chapter3/linear-methods.md)s
+
+
 
