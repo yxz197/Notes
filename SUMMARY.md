@@ -31,8 +31,6 @@
 
 ## Stochastic Calculus
 
-* Brownian Motion
-* Ito's Lemma
-
-
+* [Brownian Motion](stochastic-calculus/brownian-motion.md)
+* [Ito's Lemma](stochastic-calculus/itos-lemma.md)
 
