@@ -1,5 +1,21 @@
 # Summary
 
+## Leetcode
+
+* [Introduction](README.md)
+* [LeetCoding](chapter1.md)
+  * [204.Count Prime](chapter1/count-prime.md)
+  * [Next Element I](chapter1/next-element-i.md)
+  * [Minimum Absolute Difference in BST](chapter1/minimum-absolute-difference-in-bst.md)
+  * [Assign Cookies](chapter1/assign-cookies.md)
+  * [Majority Element](chapter1/majority-element.md)
+  * [Reverse Linked List](chapter1/reverse-linked-list.md)
+  * [Power of Three](chapter1/power-of-three.md)
+  * [Set Mismatch](chapter1/set-mismatch.md)
+  * [136.Single Number](chapter1/single-number.md)
+  * [House Robber](chapter1/house-robber.md)
+  * [Combination Sum](chapter1/combination-sum.md)
+
 ## Effective C++
 
 * [Accustoming Yourself to C++](effective-c++/accustoming-yourself-to-c++.md)
@@ -41,21 +57,7 @@
   * [Brownian Motion](stochastic-calculus/brownian-motion.md)
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
 
-## Leetcode
-
-* [Introduction](README.md)
-* [LeetCoding](chapter1.md)
-  * [204.Count Prime](chapter1/count-prime.md)
-  * [Next Element I](chapter1/next-element-i.md)
-  * [Minimum Absolute Difference in BST](chapter1/minimum-absolute-difference-in-bst.md)
-  * [Assign Cookies](chapter1/assign-cookies.md)
-  * [Majority Element](chapter1/majority-element.md)
-  * [Reverse Linked List](chapter1/reverse-linked-list.md)
-  * [Power of Three](chapter1/power-of-three.md)
-  * [Set Mismatch](chapter1/set-mismatch.md)
-  * [136.Single Number](chapter1/single-number.md)
-  * [House Robber](chapter1/house-robber.md)
-  * [Combination Sum](chapter1/combination-sum.md)
+## 
 
 
 
