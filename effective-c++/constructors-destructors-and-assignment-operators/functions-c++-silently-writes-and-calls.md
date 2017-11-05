@@ -1,3 +1,11 @@
+
+
+## Things to remember:
+
+* Compliers may implicitly generate a class's **default constructor**, **copy constructor**, **copy assignment operator**, and **destructor**.
+
+
+
 If you don’t declare them yourself, compilers will declare their own versions of **a copy constructor**, **a copy assignment operator**, and **a destructor**. Furthermore, if you declare no constructors at all, compilers will also declare **a default constructor** for you. All these functions will be both _public_ and _inline._
 
 If we write
@@ -91,4 +99,14 @@ p = s; // what should happen here?
 After the assignment, should `p.nameValue` refer to the `string` referred to by `s.nameValue`, i.e., should the reference itself be modified? No, because C++ does not provide a way to make a reference refer to a different object.
 
 Alternatively, should the `string` object to which `p.nameValue` refers be modified, thus affecting other objects that hold pointers or references to that `string`, i.e., objects not directly involved in the assignment? No.
+
+In fact, it will not compile. 
+
+* If you want to support copy assignment in a class containing a reference member, you must define the copy assignment operator yourself.
+
+* Similarly for classes containing `const` members.
+
+* Compilers reject implicit copy assignment operators in derived classes that inherit from base classes declaring the copy assignment operator `private`.
+
+
 
