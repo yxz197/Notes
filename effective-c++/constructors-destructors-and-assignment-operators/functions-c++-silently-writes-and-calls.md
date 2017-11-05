@@ -25,7 +25,7 @@ These functions are generated only if they are needed, but it doesn’t take muc
 Empty e1;     \\default constructor
               \\destructor
 Empty e2(e1); \\copy constructor
-e2 = e1;      \\copy assignment operator  
+e2 = e1;      \\copy assignment operator
 ```
 
 Note that the generated destructor is non-virtual unless it’s for a class inheriting from a base class that itself declares a virtual destructor \(in which case the function’s virtualness comes from the base class\).
@@ -60,7 +60,7 @@ but in general, compiler-generated copy assignment operators behave as I’ve de
 
 For example, suppose `NamedObject` were defined like this, where `nameValue` is a _reference_ to a string and `objectValue` is a `const T`:
 
-```
+```cpp
 template<typename T>
 class NamedObject{
 public:
