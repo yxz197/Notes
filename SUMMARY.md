@@ -2,15 +2,15 @@
 
 ## Effective C++
 
-* Accustoming Yourself to C++
-* Constructors, Destructors and Assignment Operators
-* Resource Management
-* Designs and Declarations
-* Implementations
-* Inheritance and OO-Design
-* Templates and Generic Programming
-* Customizing  `new` and `delete`
-* Miscellany
+* [Accustoming Yourself to C++](effective-c++/accustoming-yourself-to-c++.md)
+* [Constructors, Destructors and Assignment Operators](effective-c++/constructors-destructors-and-assignment-operators.md)
+* [Resource Management](effective-c++/resource-management.md)
+* [Designs and Declarations](effective-c++/designs-and-declarations.md)
+* [Implementations](effective-c++/implementations.md)
+* [Inheritance and OO-Design](effective-c++/inheritance-and-oo-design.md)
+* [Templates and Generic Programming](effective-c++/templates-and-generic-programming.md)
+* [Customizing  new and delete](effective-c++/customizing-new-and-delete.md)
+* [Miscellany](effective-c++/miscellany.md)
 
 ## Quant
 
@@ -54,6 +54,4 @@
   * [136.Single Number](chapter1/single-number.md)
   * [House Robber](chapter1/house-robber.md)
   * [Combination Sum](chapter1/combination-sum.md)
-
-
 
