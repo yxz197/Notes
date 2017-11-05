@@ -76,5 +76,19 @@ private:
 }
 ```
 
+Now consider what should happen here?
 
+```cpp
+std::string s1("new");
+std::string s2("old");
+
+NamedObject<int> p(s1,2);
+NamedObject<int> s(s2,3);
+
+p = s; // what should happen here?
+```
+
+After the assignment, should `p.nameValue` refer to the `string` referred to by `s.nameValue`, i.e., should the reference itself be modified? No, because C++ does not provide a way to make a reference refer to a different object.
+
+Alternatively, should the `string` object to which `p.nameValue` refers be modified, thus affecting other objects that hold pointers or references to that `string`, i.e., objects not directly involved in the assignment? No.
 
