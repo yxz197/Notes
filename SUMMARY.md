@@ -4,7 +4,7 @@
 
 * [Accustoming Yourself to C++](effective-c++/accustoming-yourself-to-c++.md)
 * [Constructors, Destructors and Assignment Operators](effective-c++/constructors-destructors-and-assignment-operators.md)
-  * Functions C++ silently writes and calls
+  * [Functions C++ silently writes and calls](effective-c++/constructors-destructors-and-assignment-operators/functions-c++-silently-writes-and-calls.md)
 * [Resource Management](effective-c++/resource-management.md)
 * [Designs and Declarations](effective-c++/designs-and-declarations.md)
 * [Implementations](effective-c++/implementations.md)
@@ -55,6 +55,4 @@
   * [136.Single Number](chapter1/single-number.md)
   * [House Robber](chapter1/house-robber.md)
   * [Combination Sum](chapter1/combination-sum.md)
-
-
 
