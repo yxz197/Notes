@@ -37,8 +37,9 @@
 
 ## Stochastic Calculus
 
-* [Brownian Motion](stochastic-calculus/brownian-motion.md)
-* [Ito's Lemma](stochastic-calculus/itos-lemma.md)
+* Basics
+  * [Brownian Motion](stochastic-calculus/brownian-motion.md)
+  * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
 
 ## Leetcode
 
@@ -55,4 +56,6 @@
   * [136.Single Number](chapter1/single-number.md)
   * [House Robber](chapter1/house-robber.md)
   * [Combination Sum](chapter1/combination-sum.md)
+
+
 
