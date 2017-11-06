@@ -1,6 +1,11 @@
 ## 
 
-## **Compliers may implicitly generate a class's default constructor, copy constructor, copy assignment operator, and destructor.**
+## **Compliers may implicitly generate a class's **
+
+1. ## **default constructor,**
+2. ## **copy constructor, **
+3. ## **copy assignment operator, **
+4. ## **and destructor.**
 
 If you don’t declare them yourself, compilers will declare their own versions of **a copy constructor**, **a copy assignment operator**, and **a destructor**. Furthermore, if you declare no constructors at all, compilers will also declare **a default constructor** for you. All these functions will be both _public_ and _inline._
 
