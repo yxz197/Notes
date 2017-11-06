@@ -39,6 +39,8 @@
   * [Heap Sort](chapter2/sorting/heap-sort.md)
   * [Quick Sort](chapter2/sorting/quick-sort.md)
 * [Prob. Questions](chapter2/prob-questions.md)
+* Coding
+  * Moving Average from Data Stream
 
 ## Machine Learning Notes
 
@@ -57,4 +59,6 @@
 * Basics
   * [Brownian Motion](stochastic-calculus/brownian-motion.md)
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
+
+
 
