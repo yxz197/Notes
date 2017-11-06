@@ -25,5 +25,5 @@ public:
 };
 ```
 
-
+[Check here for moving variance. ](https://www.johndcook.com/blog/standard_deviation/)
 
