@@ -34,8 +34,6 @@ e2 = e1;      \\copy assignment operator
 
 Note that the generated destructor is non-virtual unless it’s for a class inheriting from a base class that itself declares a virtual destructor \(in which case the function’s virtualness comes from the base class\).
 
-Effective C++: 55 Specific Ways to Improve Your Programs and Designs
-
 As for the copy constructor and the copy assignment operator, the compiler-generated versions simply copy each non-static data member of the source object over to the target object. For example, consider a `NamedObject` template that allows you to associate names with objects of type T:
 
 ```cpp
