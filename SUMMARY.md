@@ -31,9 +31,8 @@
 
 ## Quant
 
-* SVD Decomposition
-* Matrix Algebra Basics
-
+* [SVD Decomposition](chapter2/svd-decomposition.md)
+* [Matrix Algebra Basics](chapter2/matrix-algebra-basics.md)
 * [Sorting Algorithms ](chapter2/sorting.md)
   * [Insertion Sort](chapter2/sorting/insertion-sort.md)
   * [Merge Sort](chapter2/sorting/merge-sort.md)
@@ -58,8 +57,4 @@
 * Basics
   * [Brownian Motion](stochastic-calculus/brownian-motion.md)
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
-
-## 
-
-
 
