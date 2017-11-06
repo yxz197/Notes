@@ -21,6 +21,7 @@
 * [Accustoming Yourself to C++](effective-c++/accustoming-yourself-to-c++.md)
 * [Constructors, Destructors and Assignment Operators](effective-c++/constructors-destructors-and-assignment-operators.md)
   * [Functions C++ silently writes and calls](effective-c++/constructors-destructors-and-assignment-operators/functions-c++-silently-writes-and-calls.md)
+  * Explicitly disallow the use of compiler-generated functions you don't want
 * [Resource Management](effective-c++/resource-management.md)
 * [Designs and Declarations](effective-c++/designs-and-declarations.md)
 * [Implementations](effective-c++/implementations.md)
@@ -59,4 +60,6 @@
 * Basics
   * [Brownian Motion](stochastic-calculus/brownian-motion.md)
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
+
+
 
