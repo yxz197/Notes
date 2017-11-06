@@ -31,6 +31,9 @@
 
 ## Quant
 
+* SVD Decomposition
+* Matrix Algebra Basics
+
 * [Sorting Algorithms ](chapter2/sorting.md)
   * [Insertion Sort](chapter2/sorting/insertion-sort.md)
   * [Merge Sort](chapter2/sorting/merge-sort.md)
