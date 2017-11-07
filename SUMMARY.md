@@ -63,5 +63,7 @@
   * [Generalized GBM](stochastic-calculus/generalized-geometric-bm.md)
   * [Deterministic Integrand](stochastic-calculus/deterministic-integrand.md)
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
-  * [Vasicek and CIR Model](stochastic-calculus/vasicek-and-cir-model.md)
+  * [Vasicek Model](stochastic-calculus/vasicek-and-cir-model.md)
+
+
 
