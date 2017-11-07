@@ -8,5 +8,5 @@ $$
 $$
 
 
-Like \[Vasicek model\]\(../chapter2/insertion-sort.md\)
+Like Vasicek model, it is mean-reverting; unlike Vasicek model, it does not have a closed-form solution. However, we can derive $$E[R(t)]$$ and $$\text{Var}[R(t)]$$ for each fixed $$t$$ .
 
