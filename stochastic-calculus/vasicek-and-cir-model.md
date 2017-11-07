@@ -16,7 +16,7 @@ $$
 $$
 
 
-which we now verify. 
+which we now verify.
 
 Consider function $$f(t,x) = e^{-\beta t}R(0) + \frac{\alpha}{\beta}(1-e^{-\beta t}) + \sigma e^{-\beta t}x$$ and $$X(t) = \int_0^te^{\beta s}dW(s).$$ Then we see that $$R(t) = f(t,X(t))$$.
 
