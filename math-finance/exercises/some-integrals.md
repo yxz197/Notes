@@ -4,5 +4,7 @@ What is $$\int_0^t B(s)dB(s)$$ ?                              $$\frac{1}{2}B(t)^
 
 What is $$\int_0^t s dB(s)?$$
 
-    Consider $$$$
+Consider
+
+
 
