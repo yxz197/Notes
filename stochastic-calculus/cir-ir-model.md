@@ -8,5 +8,5 @@ $$
 $$
 
 
-Like \[Vasicek model\]\(../stochastic-calculus/vasicek-and-cir-model.md\)
+Like \[Vasicek model\]\(../chapter2/insertion-sort.md\)
 
