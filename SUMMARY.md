@@ -59,11 +59,8 @@
 
 * Stochastic Integral
   * [Brownian Motion](stochastic-calculus/brownian-motion.md)
-  * Stochastic Integral
-
+  * [Stochastic Integral](stochastic-calculus/stochastic-integral.md)
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
   * Generalized GBM
   * Vasicek and CIR Model
-
-
 
