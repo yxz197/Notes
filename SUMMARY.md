@@ -55,9 +55,15 @@
   * [Cross Validation](chapter3/resampling-methods/cross-validation.md)
   * [The Bootstrap](chapter3/resampling-methods/the-bootstrap.md)
 
-## Stochastic Calculus
+## Math Finance
 
-* Basics
+* Stochastic Integral
   * [Brownian Motion](stochastic-calculus/brownian-motion.md)
+  * Stochastic Integral
+
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
+  * Generalized GBM
+  * Vasicek and CIR Model
+
+
 
