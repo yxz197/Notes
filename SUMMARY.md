@@ -58,11 +58,13 @@
 ## Math Finance
 
 * Stochastic Integral
+
   * [Brownian Motion](stochastic-calculus/brownian-motion.md)
   * [Stochastic Integral](stochastic-calculus/stochastic-integral.md)
+
   * [Generalized GBM](https://www.gitbook.com/book/yxz197/waner/edit#)
 
-  * [Deterministic Integrand](stochastic-calculus/deterministic-integrand.md)
+  * Deterministic Integrand
 
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
 
