@@ -60,10 +60,8 @@
 * Stochastic Integral
   * [Brownian Motion](stochastic-calculus/brownian-motion.md)
   * [Stochastic Integral](stochastic-calculus/stochastic-integral.md)
-  * Generalized Geometric BM
+  * [Generalized Geometric BM](stochastic-calculus/generalized-geometric-bm.md)
   * [Deterministic Integrand](stochastic-calculus/deterministic-integrand.md)
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
   * [Vasicek and CIR Model](stochastic-calculus/vasicek-and-cir-model.md)
-
-
 
