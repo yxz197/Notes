@@ -55,5 +55,13 @@ Take $$f(t,x) = \frac{1}{2}x^2,$$ by Ito's Lemma we have
 $$
 \frac{1}{2}W(t)^2 = \int_0^tW(u)dW(u) + \frac{1}{2}t.
 $$
-Note that, for Ito process $$X(t)$$, its quadratic variation is $$[X,X](t) = \int_0^t\Delta(u)^2du.$$
+
+
+Note that, for Ito process $$X(t)$$, its quadratic variation is $$[X,X](t) = \int_0^t\Delta(u)^2du$$ and the integral w.r.t to $$X(t)$$ is defined by 
+
+
+$$
+\int_0^t\Gamma(u)dX(u) = \int_0^t\Gamma(u)\Delta(u)dW(u) + \int_0^t\Gamma(u)\Theta(u)du.
+$$
+
 
