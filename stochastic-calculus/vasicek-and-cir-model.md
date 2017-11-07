@@ -16,7 +16,9 @@ $$
 $$
 
 
-which we now verify. Consider function $$f(t,x) = e^{-\beta t}R(0) + \frac{\alpha}{\beta}(1-e^{-\beta t}) + \sigma e^{-\beta t}x$$ and $$X(t) = \int_0^te^{\beta s}dW(s).$$ Then we see that $$R(t) = f(t,X(t))$$. 
+which we now verify. 
+
+Consider function $$f(t,x) = e^{-\beta t}R(0) + \frac{\alpha}{\beta}(1-e^{-\beta t}) + \sigma e^{-\beta t}x$$ and $$X(t) = \int_0^te^{\beta s}dW(s).$$ Then we see that $$R(t) = f(t,X(t))$$.
 
 The idea is, always find appropriate function $$f(t,x) $$ and a stochastic process $$X(t)$$ such that the interested quantity, $$R(t)$$ , is of the form $$f(t,X(t))$$ . It will make the use of Ito Lemma less error-prone.
 
