@@ -65,8 +65,5 @@
   * [Ito's Lemma](stochastic-calculus/itos-lemma.md)
   * [Vasicek IR Model](stochastic-calculus/vasicek-and-cir-model.md)
   * [CIR IR Model](stochastic-calculus/cir-ir-model.md)
-* Exercises
-  * $$\int_0^tB(s)ds$$
-
-
+* [Exercises](math-finance/exercises.md)
 
