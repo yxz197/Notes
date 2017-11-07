@@ -66,7 +66,5 @@
   * [Vasicek IR Model](stochastic-calculus/vasicek-and-cir-model.md)
   * [CIR IR Model](stochastic-calculus/cir-ir-model.md)
 * [Exercises](math-finance/exercises.md)
-  * Some Integrals
-
-
+  * [Some Integrals](math-finance/exercises/some-integrals.md)
 
