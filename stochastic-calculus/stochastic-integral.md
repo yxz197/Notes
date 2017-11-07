@@ -39,13 +39,21 @@ Let $$f(t,x)$$ be a function for which the partial derivatives $$f_t(t,x), f_x(t
 $$
 df(t,X_t)= f_t(t,X_t)dt + f_x(t,X_t)dX_t + \frac{1}{2}f_{xx}(t,X_t)dX_tdX_t.
 $$
+
+
 where $$X_t$$ is an Ito process of the form
 
 
 $$
 X(t) = X(0) + \int_0^t\Delta(u)dW(u) + \int_0^t\Theta(u)du.
 $$
-Take $$f(t,x) = \frac{1}{2}x^2,$$ we have
 
+
+Take $$f(t,x) = \frac{1}{2}x^2,$$ by Ito's Lemma we have
+
+
+$$
+\frac{1}{2}W(t)^2 = \int_0^tW(u)dW(u) + \frac{1}{2}t.
+$$
 
 
