@@ -8,5 +8,5 @@ $$
 $$
 
 
-Like \[Vasicek model\]\(waner/stochastic-calculus/vasicek-and-cir-model.md\)
+Like \[Vasicek model\]\(../stochastic-calculus/vasicek-and-cir-model.md\)
 
