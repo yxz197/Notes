@@ -32,6 +32,13 @@
 
 ## Quant
 
+* Brainteaser
+  * Defective Ball
+  * Wise Men
+  * Glass Balls
+  * Handshakes
+  * Have We Met Before?
+
 * [SVD Decomposition](chapter2/svd-decomposition.md)
 * [Matrix Algebra Basics](chapter2/matrix-algebra-basics.md)
 * [Sorting Algorithms ](chapter2/sorting.md)
@@ -67,4 +74,6 @@
   * [CIR IR Model](stochastic-calculus/cir-ir-model.md)
 * [Exercises](math-finance/exercises.md)
   * [Some Integrals](math-finance/exercises/some-integrals.md)
+
+
 
