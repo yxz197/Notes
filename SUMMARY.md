@@ -38,6 +38,7 @@
   * [Glass Balls](chapter2/brainteaser/glass-balls.md)
   * [Handshakes](chapter2/brainteaser/handshakes.md)
   * [Have We Met Before?](chapter2/brainteaser/have-we-met-before.md)
+  * Counterfeit Coins
 * [SVD Decomposition](chapter2/svd-decomposition.md)
 * [Matrix Algebra Basics](chapter2/matrix-algebra-basics.md)
 * [Sorting Algorithms ](chapter2/sorting.md)
@@ -73,4 +74,6 @@
   * [CIR IR Model](stochastic-calculus/cir-ir-model.md)
 * [Exercises](math-finance/exercises.md)
   * [Some Integrals](math-finance/exercises/some-integrals.md)
+
+
 
