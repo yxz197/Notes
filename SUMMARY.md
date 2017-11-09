@@ -49,7 +49,7 @@
 * [Prob. Questions](chapter2/prob-questions.md)
 * [Coding](chapter2/coding.md)
   * [Moving Average from Data Stream](chapter2/coding/moving-average-from-data-stream.md)
-  * Largest Number
+  * [Largest Number](chapter2/coding/largest-number.md)
 
 ## Machine Learning Notes
 
@@ -75,6 +75,4 @@
   * [CIR IR Model](stochastic-calculus/cir-ir-model.md)
   * [Exercises](math-finance/exercises.md)
     * [Some Integrals](math-finance/exercises/some-integrals.md)
-
-
 
