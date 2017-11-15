@@ -33,5 +33,5 @@ TimeKeeper* ptk = getTimeKeeper();  // get dynamically allocated object
 delete ptk;                         // release it to avoid resource leak
 ```
 
-
+The problem is that `getTimeKeeper` returns a pointer to a derived class object \(e.g.,`AtomicClock`\), that object is being deleted via a base class pointer \(i.e., a `TimeKeeper*` pointer\), and the base class \(`TimeKeeper`\) has a _non-virtual_ destructor. This is a recipe for disaster, because C++ specifies that when a derived class object is deleted through a pointer to a base class with a non-virtual destructor, results are undefined. What typically happens at runtime is that the derived part of the object is never destroyed, thus leading to a curious “**partially destroyed**” object.
 
