@@ -22,12 +22,12 @@
 * [Constructors, Destructors and Assignment Operators](effective-c++/constructors-destructors-and-assignment-operators.md)
   * [Functions C++ silently writes and calls](effective-c++/constructors-destructors-and-assignment-operators/functions-c++-silently-writes-and-calls.md)
   * [Explicitly disallow the use of compiler-generated functions you don't want](effective-c++/constructors-destructors-and-assignment-operators/explicitly-disallow-the-use-of-compiler-generated-functions-you-dont-want.md)
-  * 7. Declare destructors virtual in polymorphic base class
-  * 8. Prevent exceptions from leaving destructors
-  * 9. Never call virtual function during construction or destruction
-  * 10. Have assignment operators return a reference to `*this`
-  * 11. Handle assignment to self in `operator=`
-  * 12. Copy all parts of an object
+  * Declare destructors virtual in polymorphic base class
+  * Prevent exceptions from leaving destructors
+  * Never call virtual function during construction or destruction
+  * Have assignment operators return a reference to `*this`
+  * Handle assignment to self in `operator=`
+  * Copy all parts of an object
 * [Resource Management](effective-c++/resource-management.md)
 * [Designs and Declarations](effective-c++/designs-and-declarations.md)
 * [Implementations](effective-c++/implementations.md)
