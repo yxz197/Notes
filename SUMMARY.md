@@ -20,14 +20,14 @@
 
 * [Accustoming Yourself to C++](effective-c++/accustoming-yourself-to-c++.md)
 * [Constructors, Destructors and Assignment Operators](effective-c++/constructors-destructors-and-assignment-operators.md)
-  * [Functions C++ silently writes and calls](effective-c++/constructors-destructors-and-assignment-operators/functions-c++-silently-writes-and-calls.md)
-  * [Explicitly disallow the use of compiler-generated functions you don't want](effective-c++/constructors-destructors-and-assignment-operators/explicitly-disallow-the-use-of-compiler-generated-functions-you-dont-want.md)
-  * Declare destructors virtual in polymorphic base class
-  * Prevent exceptions from leaving destructors
-  * Never call virtual function during construction or destruction
-  * Have assignment operators return a reference to `*this`
-  * Handle assignment to self in `operator=`
-  * Copy all parts of an object
+  * 5. [Functions C++ silently writes and calls](effective-c++/constructors-destructors-and-assignment-operators/functions-c++-silently-writes-and-calls.md)
+  * 6. [Explicitly disallow the use of compiler-generated functions you don't want](effective-c++/constructors-destructors-and-assignment-operators/explicitly-disallow-the-use-of-compiler-generated-functions-you-dont-want.md)
+  * [Declare destructors virtual in polymorphic base class](effective-c++/constructors-destructors-and-assignment-operators/declare-destructors-virtual-in-polymorphic-base-class.md)
+  * [Prevent exceptions from leaving destructors](effective-c++/constructors-destructors-and-assignment-operators/prevent-exceptions-from-leaving-destructors.md)
+  * [Never call virtual function during construction or destruction](effective-c++/constructors-destructors-and-assignment-operators/never-call-virtual-function-during-construction-or-destruction.md)
+  * [Have assignment operators return a reference to \*this](effective-c++/constructors-destructors-and-assignment-operators/have-assignment-operators-return-a-reference-to-this.md)
+  * [Handle assignment to self in operator=](effective-c++/constructors-destructors-and-assignment-operators/handle-assignment-to-self-in-operator.md)
+  * [Copy all parts of an object](effective-c++/constructors-destructors-and-assignment-operators/copy-all-parts-of-an-object.md)
 * [Resource Management](effective-c++/resource-management.md)
 * [Designs and Declarations](effective-c++/designs-and-declarations.md)
 * [Implementations](effective-c++/implementations.md)
