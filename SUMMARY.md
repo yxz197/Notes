@@ -2,7 +2,7 @@
 
 ## Leetcode
 
-* Binary Search
+* [Binary Search](binary-search.md)
   * [Search on Index](search-on-index.md)
   * [Search on Result](search-on-result.md)
   * [Misc](misc.md)
@@ -85,6 +85,4 @@
   * [CIR IR Model](stochastic-calculus/cir-ir-model.md)
   * [Exercises](math-finance/exercises.md)
     * [Some Integrals](math-finance/exercises/some-integrals.md)
-
-
 
