@@ -2,10 +2,6 @@
 
 ## Leetcode
 
-* [Binary Search](binary-search.md)
-  * [Search on Index](search-on-index.md)
-  * [Search on Result](search-on-result.md)
-  * [Misc](misc.md)
 * [Introduction](README.md)
 * [LeetCoding](chapter1.md)
   * [204.Count Prime](chapter1/count-prime.md)
